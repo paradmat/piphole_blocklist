@@ -13,3 +13,4 @@
 0.0.0.0 charity.energy.partners
 0.0.0.0 vagyaim.hu
 0.0.0.0 beszamolok.com
+0.0.0.0 trk.69trk.com/go/900c71e8-c872-481e-ade6-4f80fa80fb50
