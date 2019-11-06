@@ -4,12 +4,12 @@
 0.0.0.0 isamurai.hu/?utm_source=ncore&utm_medium=banner&utm_term=ncore&utm_content=ncore&utm_campaign=Ncore
 0.0.0.0 charity.energy.partners/redirect.aspx?pid=4117&bid=4987
 0.0.0.0 trk.69trk.com
-0.0.0.0 opelmaxabo.hu/opelgepjarmuvek/opelszemelygepjarmuvek/astra-2015/index/?utm_source=ncore_Astra&utm_medium=ncore_Astra&utm_campaign=ncore_Astra
+0.0.0.0 opelmaxabo.hu
 0.0.0.0 goodoffer24.com
-0.0.0.0 ecigionline.com/?utm_source=ncore&utm_medium=banner&utm_campaign=2014JUN
+0.0.0.0 ecigionline.com
 0.0.0.0 trk.69trk.com/go/ccd10a05-1878-4b09-b4ed-63270a337cf3
 0.0.0.0 rosszlanyok.hu/masszazs?utm_source=ncore.cc&utm_medium=728x90ma&utm_campaign=ncore.cc
-0.0.0.0 rosszlanyok.hu/szexpartner?utm_source=ncore.cc&utm_medium=728x90b&utm_campaign=ncore.cc
+0.0.0.0 rosszlanyok.hu
 0.0.0.0 charity.energy.partners
 0.0.0.0 vagyaim.hu
 0.0.0.0 beszamolok.com
