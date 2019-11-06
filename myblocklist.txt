@@ -1,9 +1,9 @@
 0.0.0.0 ad.aqua.hu
 0.0.0.0 unibet-unibet.bannerflow.com
 0.0.0.0 gotrack1.es
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 isamurai.hu/?utm_source=ncore&utm_medium=banner&utm_term=ncore&utm_content=ncore&utm_campaign=Ncore
+0.0.0.0 charity.energy.partners/redirect.aspx?pid=4117&bid=4987
+0.0.0.0 trk.69trk.com
+0.0.0.0 opelmaxabo.hu/opelgepjarmuvek/opelszemelygepjarmuvek/astra-2015/index/?utm_source=ncore_Astra&utm_medium=ncore_Astra&utm_campaign=ncore_Astra
+0.0.0.0 goodoffer24.com
+0.0.0.0 www.ecigionline.com/?utm_source=ncore&utm_medium=banner&utm_campaign=2014JUN
