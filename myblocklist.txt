@@ -11,3 +11,5 @@
 0.0.0.0 rosszlanyok.hu/masszazs?utm_source=ncore.cc&utm_medium=728x90ma&utm_campaign=ncore.cc
 0.0.0.0 rosszlanyok.hu/szexpartner?utm_source=ncore.cc&utm_medium=728x90b&utm_campaign=ncore.cc
 0.0.0.0 charity.energy.partners
+0.0.0.0 vagyaim.hu
+0.0.0.0 beszamolok.com
