@@ -15,3 +15,4 @@
 0.0.0.0 beszamolok.com
 0.0.0.0 trk.69trk.com/go/900c71e8-c872-481e-ade6-4f80fa80fb50
 0.0.0.0 goodoffer24.com/11-11-big-sale.html?acc=581
+0.0.0.0 gotrack2.es
